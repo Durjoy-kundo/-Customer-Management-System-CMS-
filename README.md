@@ -62,8 +62,7 @@ We can search for customers using their details in branch mode.
 
 # project Graph
 
-![project graph bl](https://github.com/Yeamin-Talukder/-Customer-Management-System-CMS-/assets/61332874/3b90dba1-3b3a-4a01-b6cf-9aa76f2b4469)
-
+![project graph bl](https://github.com/Durjoy-kundo/-Customer-Management-System-CMS-/assets/148485403/59cec500-04e0-47c1-84f5-6e955b2132a4)
 
 
 # Setup process
@@ -76,33 +75,41 @@ We can search for customers using their details in branch mode.
 
 
 
+
+
+
+
+
+
+
 # SCREENSHOTS
 
  #### OPEN PAGE 
-![Screenshot 2023-10-19 225320](https://github.com/Yeamin-Talukder/-Customer-Management-System-CMS-/assets/61332874/82568d33-2fdf-4f25-9483-d593eaafd0e8)
+![Screenshot 2023-10-19 225320](https://github.com/Durjoy-kundo/-Customer-Management-System-CMS-/assets/148485403/190f4fe0-9ab6-4d7a-a43e-36ecf4ae369f)
 
 #### LOGIN PAGE
-![Screenshot 2023-10-19 225623](https://github.com/Yeamin-Talukder/-Customer-Management-System-CMS-/assets/61332874/6ac3fdad-8493-4d87-abb3-cbf89b20c1aa)
+![Screenshot 2023-10-19 225623](https://github.com/Durjoy-kundo/-Customer-Management-System-CMS-/assets/148485403/657136bd-f5c3-4fd5-88a8-1a1b01cc5328)
 
  #### ADMIN MODE
-![Screenshot 2023-10-19 225634](https://github.com/Yeamin-Talukder/-Customer-Management-System-CMS-/assets/61332874/52dcd41c-f2b8-4b46-9e31-465e4ed7a0dd)
+![Screenshot 2023-10-19 225634](https://github.com/Durjoy-kundo/-Customer-Management-System-CMS-/assets/148485403/aae86067-9036-403e-ad07-ad43676d8879)
 
 #### SHOW BRANCH
-![Screenshot 2023-10-19 230232](https://github.com/Yeamin-Talukder/-Customer-Management-System-CMS-/assets/61332874/e99d9cab-64fa-471b-9773-0783c6d857e3)
+![Screenshot 2023-10-19 230232](https://github.com/Durjoy-kundo/-Customer-Management-System-CMS-/assets/148485403/15a8dd75-067f-46a4-b27c-c1c624b37902)
 
  #### BRANCH MODE
-![Screenshot 2023-10-19 225634](https://github.com/Yeamin-Talukder/-Customer-Management-System-CMS-/assets/61332874/52dcd41c-f2b8-4b46-9e31-465e4ed7a0dd)
+![Screenshot 2023-10-20 001307](https://github.com/Durjoy-kundo/-Customer-Management-System-CMS-/assets/148485403/32921530-fff9-4a19-82d6-9110543aa07d)
 
 #### CUSTOMER DETAILS
-![Screenshot 2023-10-19 230554](https://github.com/Yeamin-Talukder/-Customer-Management-System-CMS-/assets/61332874/d78a137a-9dda-406c-a976-7f07ba5562a7)
+![Screenshot 2023-10-19 230554](https://github.com/Durjoy-kundo/-Customer-Management-System-CMS-/assets/148485403/30f9c863-b7bb-47c2-9210-b06c65e865bb)
 
  #### BRANCH.TXT FILE
-![Screenshot 2023-10-19 231314](https://github.com/Yeamin-Talukder/-Customer-Management-System-CMS-/assets/61332874/8ebfd4ce-4a30-414e-bbde-b72c008461a8)
+![Screenshot 2023-10-19 231314](https://github.com/Durjoy-kundo/-Customer-Management-System-CMS-/assets/148485403/f4d5f68b-e2e3-4d42-897d-5921549c128a)
 
 
  #### CUSTOMER.TXT FILE
  
-![Screenshot 2023-10-19 231301](https://github.com/Yeamin-Talukder/-Customer-Management-System-CMS-/assets/61332874/21fad6b8-e6c4-4c5d-b168-c48a2a14ff56)
+
+![Screenshot 2023-10-19 231301](https://github.com/Durjoy-kundo/-Customer-Management-System-CMS-/assets/148485403/adf3f639-4fb5-4b3a-92d5-f522bdf958b4)
 
 
 
